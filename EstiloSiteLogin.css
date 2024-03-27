@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(to left, pink, white, pink);
+}
+.title{
+    text-align: center;
+    font-size: larger;
+}
+.home{
+    text-align: center;
+}
